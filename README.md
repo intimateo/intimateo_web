@@ -1,2 +1,2 @@
-# intimateo_web
-website of intimateo
+# intimateo
+Under construction
